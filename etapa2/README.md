@@ -5,7 +5,7 @@ https://data.insideairbnb.com/united-states/nv/clark-county-nv/2026-09-20/data/l
 
 ## Archivos
 - `Ing_datos(3).ipynb`: notebook con todo el proceso de limpieza.
-- `listings_clark_limpio.csv`: dataset limpio (16.434 anuncios, 57 columnas).
+- `listings_clark_limpio (4).csv`: dataset limpio (16.434 anuncios, 57 columnas).
 - PDF: resumen de una página del proceso.
 
 ## Nota
